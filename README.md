@@ -7,6 +7,7 @@
 
 🎓 Education:
 
+* Studied Software Development in high school
 * Currently studying Computer Science at Don Bosco University
 
 🌐 About me:
