@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 Hi! I'm gaviMadeThat, a passionate Dart developer focused on cross-platform and biomedical development.
 
-<!--
-**gaviMadeThat/gaviMadeThat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focus:
 
-Here are some ideas to get you started:
+* Cross-platform development with Flutter and Dart
+* Biomedical applications and technological solutions in the healthcare field
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education:
+
+* Currently studying Computer Science at Don Bosco University
+
+🌐 About me:
+
+I am a technology enthusiast who enjoys solving problems and creating innovative solutions in the world of software development. My focus on cross-platform and biomedical development allows me to combine my interests in programming and science to make a real difference in people's lives.
+
+🚀 Goals:
+
+* Continue improving my skills in Dart and Flutter
+* Collaborate on open-source projects related to biomedical technology
+* Contribute to the advancement of science and technology in the healthcare field through innovative software solutions
+
+🔗 Connect with me:
+
+Feel free to connect with me to talk about projects, collaborations, or just to discuss technology. I am always open to learning from others and sharing my knowledge.
